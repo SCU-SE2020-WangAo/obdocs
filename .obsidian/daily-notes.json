@@ -1,3 +1,6 @@
 {
-  "folder": "日报"
+  "folder": "Daily logs",
+  "autorun": true,
+  "format": "MMMM/YYYY-MM-DD",
+  "template": "Templates/Daily template"
 }

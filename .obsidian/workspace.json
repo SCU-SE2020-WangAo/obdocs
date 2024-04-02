@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e156cce73b194eea",
+        "id": "7df65b15e5daa3ff",
         "type": "tabs",
         "children": [
           {
-            "id": "571d0960b2065ff8",
+            "id": "049b1eec36b83cec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学一/高等数学/前置知识.md",
+                "file": "Daily logs/April/2024-04-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学一/高等数学/前置知识.md",
+                "file": "Daily logs/April/2024-04-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数学一/高等数学/前置知识.md",
+                "file": "Daily logs/April/2024-04-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数学一/高等数学/前置知识.md"
+                "file": "Daily logs/April/2024-04-02.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数学一/高等数学/前置知识.md",
+                "file": "Daily logs/April/2024-04-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,11 +165,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a29051434ea5b26",
+  "active": "049b1eec36b83cec",
   "lastOpenFiles": [
-    "日报",
+    "README.md",
+    "Daily logs/April/2024-04-02.md",
+    "Templates/Daily template.md",
+    "Daily logs/April",
+    "Templates/Mathematical formula",
+    "Templates",
+    "日志/April/2024-Apr-02.md",
+    "日志/2024-04-02.md",
+    "日志/四月",
     "数学一/高等数学/前置知识.md",
     "英语一/Isaac Newton.md",
+    "Daily logs",
     "英语一/Law of Inertia.md",
     "英语一/Obsidian.md",
     "英语一/Three laws of motion.md",
@@ -180,7 +189,6 @@
     "未命名.md",
     "未命名.canvas",
     "数学一/高等数学",
-    "英语一",
-    "数学一"
+    "英语一"
   ]
 }
