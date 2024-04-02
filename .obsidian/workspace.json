@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学一/高等数学/变量和函数/函数的概念.md",
+                "file": "Daily logs/April/2024-04-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/April/2024-04-02.md",
+                "file": "数学一/高等数学/变量和函数/函数的概念.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +178,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "049b1eec36b83cec",
+  "active": "b0c3d9663a6e65ba",
   "lastOpenFiles": [
     "Daily logs/April/2024-04-02.md",
     "数学一/高等数学/变量和函数/函数的概念.md",
