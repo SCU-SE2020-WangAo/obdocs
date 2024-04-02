@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "数学一/高等数学/变量和函数/函数的概念.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0c3d9663a6e65ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Daily logs/April/2024-04-02.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/April/2024-04-02.md",
+                "file": "数学一/高等数学/变量和函数/函数的概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/April/2024-04-02.md",
+                "file": "数学一/高等数学/变量和函数/函数的概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/April/2024-04-02.md"
+                "file": "数学一/高等数学/变量和函数/函数的概念.md"
               }
             }
           },
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/April/2024-04-02.md",
+                "file": "数学一/高等数学/变量和函数/函数的概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +179,15 @@
   },
   "active": "049b1eec36b83cec",
   "lastOpenFiles": [
-    "README.md",
     "Daily logs/April/2024-04-02.md",
+    "数学一/高等数学/变量和函数/函数的概念.md",
+    "附件/视频",
+    "附件/音频",
+    "附件/图片",
+    "附件",
+    "数学一/高等数学/前置知识.md",
+    "数学一/高等数学/变量和函数",
+    "README.md",
     "Templates/Daily template.md",
     "Daily logs/April",
     "Templates/Mathematical formula",
@@ -176,19 +195,13 @@
     "日志/April/2024-Apr-02.md",
     "日志/2024-04-02.md",
     "日志/四月",
-    "数学一/高等数学/前置知识.md",
     "英语一/Isaac Newton.md",
     "Daily logs",
     "英语一/Law of Inertia.md",
     "英语一/Obsidian.md",
     "英语一/Three laws of motion.md",
-    "Recording 20240306174920.webm",
-    "Recording 20240306173017.webm",
     "2024-03-06.md",
-    "Recording 20240305225825.webm",
     "未命名.md",
-    "未命名.canvas",
-    "数学一/高等数学",
-    "英语一"
+    "未命名.canvas"
   ]
 }
