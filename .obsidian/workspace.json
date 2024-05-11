@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/April/2024-04-25.md",
+                "file": "Templates/Daily template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/April/2024-04-25.md",
+                "file": "Templates/Daily template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/April/2024-04-25.md",
+                "file": "Templates/Daily template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/April/2024-04-25.md"
+                "file": "Templates/Daily template.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/April/2024-04-25.md",
+                "file": "Templates/Daily template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,10 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "049b1eec36b83cec",
+  "active": "8a29051434ea5b26",
   "lastOpenFiles": [
-    "Daily logs/April/2024-04-24.md",
+    "阿里云云计算助理工程师ACA认证",
+    "Daily logs/May/2024-05-11.md",
     "Daily logs/April/2024-04-25.md",
+    "Daily logs/May",
+    "Daily logs/April/2024-04-24.md",
     "Daily logs/April/2024-04-05.md",
     "Daily logs/April/2024-04-02.md",
     "Daily logs/April/2024-04-03.md",
@@ -188,7 +191,6 @@
     "日志/2024-04-02.md",
     "日志/四月",
     "英语一/Isaac Newton.md",
-    "Daily logs",
     "英语一/Law of Inertia.md",
     "英语一/Obsidian.md",
     "英语一/Three laws of motion.md",
