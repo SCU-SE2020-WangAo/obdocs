@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily template.md",
+                "file": "Daily logs/May/2024-05-17.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily template.md",
+                "file": "Daily logs/May/2024-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily template.md",
+                "file": "Daily logs/May/2024-05-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily template.md"
+                "file": "Daily logs/May/2024-05-17.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily template.md",
+                "file": "Daily logs/May/2024-05-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,8 +165,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a29051434ea5b26",
+  "active": "049b1eec36b83cec",
   "lastOpenFiles": [
+    "Templates/Daily template.md",
+    "Daily logs/May/2024-05-17.md",
     "阿里云云计算助理工程师ACA认证",
     "Daily logs/May/2024-05-11.md",
     "Daily logs/April/2024-04-25.md",
@@ -183,13 +185,11 @@
     "数学一/高等数学/前置知识.md",
     "数学一/高等数学/变量和函数",
     "README.md",
-    "Templates/Daily template.md",
     "Daily logs/April",
     "Templates/Mathematical formula",
     "Templates",
     "日志/April/2024-Apr-02.md",
     "日志/2024-04-02.md",
-    "日志/四月",
     "英语一/Isaac Newton.md",
     "英语一/Law of Inertia.md",
     "英语一/Obsidian.md",
