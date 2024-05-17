@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "049b1eec36b83cec",
+            "id": "565e1483f6aad89e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily logs/May/2024-05-17.md",
+                "file": "阿里云云计算助理工程师ACA认证/云计算基础/数据中心概述.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/May/2024-05-17.md",
+                "file": "阿里云云计算助理工程师ACA认证/云计算基础/数据中心概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily logs/May/2024-05-17.md",
+                "file": "阿里云云计算助理工程师ACA认证/云计算基础/数据中心概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily logs/May/2024-05-17.md"
+                "file": "阿里云云计算助理工程师ACA认证/云计算基础/数据中心概述.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily logs/May/2024-05-17.md",
+                "file": "阿里云云计算助理工程师ACA认证/云计算基础/数据中心概述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,12 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "049b1eec36b83cec",
+  "active": "8a29051434ea5b26",
   "lastOpenFiles": [
-    "Templates/Daily template.md",
+    "Untitled.md",
+    "阿里云云计算助理工程师ACA认证/云计算基础/数据中心概述.md",
     "Daily logs/May/2024-05-17.md",
-    "阿里云云计算助理工程师ACA认证",
+    "阿里云云计算助理工程师ACA认证/云计算基础",
     "Daily logs/May/2024-05-11.md",
+    "Templates/Daily template.md",
+    "阿里云云计算助理工程师ACA认证",
     "Daily logs/April/2024-04-25.md",
     "Daily logs/May",
     "Daily logs/April/2024-04-24.md",
@@ -187,7 +190,6 @@
     "README.md",
     "Daily logs/April",
     "Templates/Mathematical formula",
-    "Templates",
     "日志/April/2024-Apr-02.md",
     "日志/2024-04-02.md",
     "英语一/Isaac Newton.md",
